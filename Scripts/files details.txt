@@ -1,0 +1,5 @@
+Views are created in Gold layer
+
+JSON is created to do read all the files in a loop (used for dynamic pipeline)
+
+silver layer (databricks) code is placed in notebook
